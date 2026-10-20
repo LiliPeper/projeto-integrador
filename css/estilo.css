@@ -1,0 +1,121 @@
+:root {
+    --escuro-verde: #2F3201;
+    --meio-verde: #C9D10A;
+    --claro-verde: #F4F5C1;
+    --mais-claro-verde: #FCFCF2;
+    --verde-amarelado: #EAEE58;
+}
+
+/* cabecalho*/
+main {
+    background-color: rgb(7, 40, 27);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1;
+    padding: 30px;
+
+}
+
+body {
+    background-color: rgb(7, 40, 27);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: right;
+}
+
+a {
+    margin: 10px;
+    text-align: left;
+}
+
+.banner {
+    width: 100%;
+    min-height: 0px;
+    background-color: #2F320;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+/*corpo*/
+
+
+nav {
+    background-color: rgb(58, 148, 83);
+    width: 80%;
+    max-width: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+section {
+
+    background-color: var(--claro-verde);
+    padding: 22px 26px;
+    border-left: 5px solid var(--meio-verde);
+    border-right: 5px solid var(--meio-verde);
+    font-style: italic;
+    color: var(--cor-escura);
+    margin: 28px 0;
+    border-radius: 4px;
+    text-align: left;
+}
+
+p {
+
+    line-height: 20px;
+}
+
+article {
+    background-color: var(--mais-claro-verde);
+
+
+    padding: 30px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    line-height: 1;
+    padding: 30px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 0px;
+    background-color: rgb(7, 40, 27);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*links*/
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
