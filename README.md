@@ -1,4 +1,4 @@
-Este trabalho fora realizado por: Lucas Lopes, Nicolas Isaac, Thiago 
+Este trabalho fora realizado por: Lucas Lopes, Nicolas Isaac, Tiago Cassio 
 
 Solicitado pelo professor Italo, para a matéria de PROJETO INTEGRADOR 1.
 
